@@ -29,4 +29,3 @@ jobs:
           git add dist/snake.svg
           git commit -m "update snake animation" || echo "No changes"
           git push origin HEAD
-
